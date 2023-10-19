@@ -1,25 +1,26 @@
 # Hi there! 👋 I'm [Your Name]
 
-I'm a passionate software developer with a focus on [Your Focus]. My goal is to create meaningful and efficient solutions to real-world problems. 
+I'm a dedicated geotechnical engineer passionate about understanding and mitigating the risks associated with the earth's processes. My work involves soil mechanics, foundation design, and geotechnical analysis.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
-## Featured Projects
+## Geotechnical Projects
 
 ### Project 1: [Project Name 1](link-to-repo-1)
-- Description: A brief description of the project and its importance.
-- [Demo](link-to-demo) | [Code](link-to-repo-1)
+- Description: Investigated soil properties and provided geotechnical recommendations.
+- [Report](link-to-report) | [Code](link-to-repo-1)
 
 ### Project 2: [Project Name 2](link-to-repo-2)
-- Description: Another project you're proud of.
+- Description: Designed deep foundations for a critical infrastructure project.
 - [Code](link-to-repo-2)
 
-## Skills
+## Geotechnical Expertise
 
-- Languages: JavaScript, Python, Java
-- Web Technologies: HTML, CSS, React, Node.js
-- Databases: SQL, MongoDB
-- Tools: Git, VS Code
+- Soil Testing and Analysis
+- Foundation Design
+- Slope Stability Analysis
+- Ground Improvement Techniques
+- Geospatial Data Analysis
 
 ## GitHub Activity
 
@@ -27,12 +28,12 @@ I'm a passionate software developer with a focus on [Your Focus]. My goal is to 
 
 ## Contact
 
-📫 You can reach me at [your@email.com]
+📫 Reach out to me at [your@email.com]
 
-## Blog Posts
+## Geotechnical Blog
 
-- [Title of Your Blog Post 1](link-to-post-1)
-- [Title of Your Blog Post 2](link-to-post-2)
+- [Understanding Soil Mechanics](link-to-post-1)
+- [Slope Stability Analysis Methods](link-to-post-2)
 
 ## GitHub Contributions
 
@@ -40,8 +41,8 @@ I'm a passionate software developer with a focus on [Your Focus]. My goal is to 
 
 ## Badges
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)](https://www.javascript.com)
-[![Python](https://img.shields.io/badge/Python-Intermediate-blue)](https://www.python.org)
+[![Geotechnical Engineering](https://img.shields.io/badge/Geotechnical%20Engineering-Expert-brown)](https://www.geotechnical.org)
+[![Soil Mechanics](https://img.shields.io/badge/Soil%20Mechanics-Enthusiast-green)](https://www.soilmechanics.org)
 
 ## Social Media
 
