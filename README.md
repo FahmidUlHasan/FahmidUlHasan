@@ -24,11 +24,11 @@ I'm a dedicated geotechnical engineer passionate about understanding and mitigat
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FahmidUlHasan)
 
 ## Contact
 
-📫 Reach out to me at [your@email.com]
+📫 Reach out to me at [fahmidpulok@gmail.com]
 
 ## Geotechnical Blog
 
@@ -37,7 +37,7 @@ I'm a dedicated geotechnical engineer passionate about understanding and mitigat
 
 ## GitHub Contributions
 
-![GitHub Contributions](https://github.com/yourusername)
+![GitHub Contributions](https://github.com/FahmmidUlHasan)
 
 ## Badges
 
