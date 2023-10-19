@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Fahmid Ul Hasan]
 
 I'm a dedicated geotechnical engineer passionate about understanding and mitigating the risks associated with the earth's processes. My work involves soil mechanics, foundation design, and geotechnical analysis.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FahmidUlHasan&show_icons=true)
 
 ## Geotechnical Projects
 
