@@ -24,7 +24,8 @@ I'm a dedicated geotechnical engineer passionate about understanding and mitigat
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FahmidUlHasan)
+You can view my GitHub activity on my [GitHub Profile](https://github.com/FahmidUlHasan).
+
 
 ## Contact
 
